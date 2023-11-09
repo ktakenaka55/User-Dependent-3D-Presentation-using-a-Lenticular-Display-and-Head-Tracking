@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceStart.unity
+    guid: 664db1d9f8d14614dbc253761a9ef1d5
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame.unity
+    guid: 5c653ef757441244f9ca85a5ae4921a7
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame1.unity
+    guid: 818e5c8a032d0ea4bb025d34032485f1
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame2.unity
+    guid: 40485552f45ccb54f8204341b2ddfcc3
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame3.unity
+    guid: 671065fcdba4f774da83bcb3368a4644
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame4.unity
+    guid: 504a5bf72b0ee384b949607dae890c4b
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame5.unity
+    guid: fb405f99009bcf24e95f94fcba58e06a
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame6.unity
+    guid: 716eb679273778f49be5ac4cbb37802f
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame7.unity
+    guid: c6691249e68994b4bb7eb639f65ea030
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceGame8.unity
+    guid: f83ebb01decb59447866950105bf063e
+  - enabled: 1
+    path: Assets/Scenes/exp1_voice/VoiceFinish.unity
+    guid: e1ebeda14bbd9da4c9041573bd66c0d9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/exp1_click/ClickStart.unity
+    guid: fc183b7232ffccc418c5914c0bc49d0a
+  - enabled: 0
+    path: Assets/Scenes/exp1_click/ClickGame.unity
+    guid: a476e55ba11cf814ebb5c68185546f45
+  - enabled: 0
+    path: Assets/Scenes/exp1_click/ClickFinish.unity
+    guid: 99511a9ebe4861e4996ff404237666d0
+  - enabled: 1
+    path: Assets/Scenes/BlockStart.unity
+    guid: ce815d6289ef2c449a3ec5b05e7c40d4
+  - enabled: 1
+    path: Assets/Scenes/MentalBlock.unity
+    guid: 867e7cc4d9288c94dba2f94809e58022
+  - enabled: 1
+    path: Assets/Scenes/MentalBlock_sub1.unity
+    guid: bdebce274ab01554dadfc6e9e7dc90fc
+  - enabled: 1
+    path: Assets/Scenes/BlockFinish.unity
+    guid: ce9473404875c794f927621edf1e8a1f
+  m_configObjects: {}
