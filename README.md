@@ -1,5 +1,3 @@
-# User-Dependent-3D-Presentation-using-a-Lenticular-Display-and-Head-Tracking
-
 # 裸眼立体視ディスプレイとヘッドトラッキングを用いた自由視点立体映像の個別提示による共同作業システム
 
 ![概要図](./teaser.png)
@@ -37,8 +35,12 @@
 
 4. Unity実行
 
+※詳細
+・オブジェクト'DataReader'のスクリプト'DataRead'のformat_tracking, format_splitによりトラッキングによる多方向立体視、画面分割のオン・オフ選択可能
 
-##　出力
+
+
+## 出力
 ・表示シーン
 ![概要図](./model.png)
 一つの３Dモデルを二人で多方向から立体視する
