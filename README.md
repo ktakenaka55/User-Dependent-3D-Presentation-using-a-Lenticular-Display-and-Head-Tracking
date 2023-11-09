@@ -14,7 +14,7 @@
 
 ・Webカメラ：elecom UCAM-C820ABBK
 
-![システム構成](./setup.png)
+<img src="./setup.png" width="500％">
 
 
 ## ソフトウェア
@@ -42,12 +42,12 @@
 
 ## 出力
 ・表示シーン
-![概要図](./model.png)
+<img src="./model.png" width="200％">
 一つの３Dモデルを二人で多方向から立体視する
 A~Dが書かれたCubeは視点方向を表す
 
 
 ・ディスプレイ表示
-![概要図](./output.png)
+<img src="./output.png" width="300％">
 user1は方向DAから、user2はBCから同時に立体視可能
 各ユーザは独立して自由立体視できる
