@@ -35,8 +35,9 @@
 
 4. Unity実行
 
-※詳細
-・オブジェクト'DataReader'のスクリプト'DataRead'のformat_tracking, format_splitによりトラッキングによる多方向立体視、画面分割のオン・オフ選択可能
+※詳細<br>
+・オブジェクト'DataReader'のスクリプト'DataRead'のformat_tracking, format_splitによりトラッキングによる多方向立体視、画面分割のオン・オフ選択可能<br>
+・シーン内の表示オブジェクトを変更することで好きなモデルを多視点立体視できる<br>
 
 
 
